@@ -154,7 +154,7 @@
     </div>
     <header class="header">
         <div class="left">
-            <img src="F:\Udaipur_2022" alt="">        
+            <img src="F:\devasya_2022" alt="">        
         </div>
         <div class="mid">
             <ul class="navbar">
@@ -164,7 +164,7 @@
                     <button class="dropbtn">Contact</button>
                     <div class="dropdown-content">
                         <a href="tel:8849950258"><i class="glyphicon glyphicon-earphone"></i>&nbsp&nbsp;Call us at 9999999999</a>
-                       <a href="mailto: 20CS095@charusat.edu.in"><i class="glyphicon glyphicon-envelope"></i>&nbsp&nbsp;Email us</a>
+                       <a href="mailto: 20CS020@charusat.edu.in"><i class="glyphicon glyphicon-envelope"></i>&nbsp&nbsp;Email us</a>
                     </div>
                   </div></li>
             </ul>
